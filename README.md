@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ideveloperprateek
-- 👀 I’m interested in TypeScript, Angular, RxJs, 
-- 🌱 I’m currently learning .Azure CI/CD, SQL..
+- 👀 I’m interested in TypeScript, Angular, RxJs,  React.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
